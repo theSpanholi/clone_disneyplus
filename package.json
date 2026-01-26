@@ -1,0 +1,33 @@
+{
+  "name": "clone_disneyplus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp watch",
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theSpanholi/clone_disneyplus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/theSpanholi/clone_disneyplus/issues"
+  },
+  "homepage": "https://github.com/theSpanholi/clone_disneyplus#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^6.0.1"
+  },
+  "dependencies": {
+    "18": "^0.0.0",
+    "gulp-watch": "^5.0.1",
+    "sass": "^1.97.2"
+  }
+}
